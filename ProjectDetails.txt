@@ -20,6 +20,7 @@ Project Name :HospitalManagementSystem.
                   >Press A for Register a Patient.
                   >Press B for Update a Patient Details.
                   >Press B for Discharge a Patient.
+vhjljk;hjbk;ljlk.bjvbkl.bkn;m;knknm
 
 
 
