@@ -1,0 +1,26 @@
+                                          Hospital Management System
+Database Name..:Hospital-Db
+
+Table Name..:Hospital-info
+
+        fields..:  patientId,patientName,patientAge,patientGender,patientAddress
+
+Project Name :HospitalManagementSystem.
+
+            Press 1 for View Patient Details.
+                  >Press A for View All Patient Details.
+                  >Press B for View Any Random Patient Details.
+                  >Press C for View Particular Patient.
+
+            Press 2 for Search a Patient By Id.
+
+            Press 3 for Show All Patients.
+
+            Press 4 for Register and Dicharge Patient.
+                  >Press A for Register a Patient.
+                  >Press B for Update a Patient Details.
+                  >Press B for Discharge a Patient.
+
+
+
+		
