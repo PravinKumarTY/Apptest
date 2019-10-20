@@ -54,6 +54,8 @@ public class Employee {
 	}
 	public void setDate(Date date) {
 		this.date = date;
+		System.out.println("This is commit in dto");
 	}
+	
 
 }
