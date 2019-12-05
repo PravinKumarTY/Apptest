@@ -1,0 +1,28 @@
+TextLocale API For SMS Service:-
+   >The most innovative, easy to use, and comprehensive bulk SMS service platform
+   >Free of cost, pay only for SMS credits.
+   >Secure, reliable & scalable SMS APIs trusted by 100,000+ developers.
+   >It's used for Promotional SMS and Transactional SMS.
+   >Promotional SMS is generally used for sending any offers or promotions to new and existing customers. Messages are sent to non-DND numbers and opt-in numbers (via myDND Manager) between 9 AM and 9 PM only.
+   >Transactional route can only be used for sending transactional SMS such as OTPs and alerts to your registered users.Messages can be sent 24x7 from your 6-character Sender ID(s).
+   
+   Requests:
+     >All API requests should be sent to https://api.textlocal.in/{command}, where command is the API call you wish to execute, with the parameters included either in the POST Header or the URL (GET).
+   Responses:
+     >Responses are, by default, sent in JSON format.   
+
+   Error Codes:
+     1 . No command specified.   
+	 2 . Unrecognised command.
+	 3 . Invalid login details.
+	 
+SendGrid API for Mail Service:
+    >SendGrid Api is used to develop mail service.
+    >It's used for Promotional Mail and Transactional Mail.	
+	>Promotional Mail is generally used for sending any offers or promotions to new and existing customers.
+    >Transactional route can only be used for sending transactional Mail.
+	
+	Requests:
+	  >The host for Web API v3 requests is always https://sendgrid.com/v3/
+	  >All requests must be made over HTTPS. The API does not support HTTP.
+	  
